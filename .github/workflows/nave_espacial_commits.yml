@@ -1,0 +1,29 @@
+name: Nave Espacial Commits
+
+on:
+  push:
+    branches:
+      - main  # ajuste para a branch principal do seu repositório
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout do Código
+      uses: actions/checkout@v2
+
+    - name: Configurar Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+
+    - name: Nave Espacial Commits
+      run: |
+        for i in {1..10}; do
+          echo "Nave Espacial Commit $i" >> commit_file.txt
+          git add commit_file.txt
+          git commit -m "🚀 Nave Espacial Commit $i"
+          git push
+          sleep 3
+        done
