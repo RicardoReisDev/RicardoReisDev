@@ -15,8 +15,9 @@ jobs:
 
     - name: Configurar Git
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
+        git config --global user.name "RicardoReisDev"
+        git config --global user.email "ricardoreisdev@gmail.com"
+        git remote set-url origin "https://RicardoReisDev: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@github.com/RicardoReisDev/RicardoReisDev.git"
 
     - name: Nave Espacial Commits
       run: |
