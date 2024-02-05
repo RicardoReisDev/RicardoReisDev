@@ -3,7 +3,7 @@ name: Nave Espacial Commits
 on:
   push:
     branches:
-      - main  # ajuste para a branch principal do seu repositório
+      - main
 
 jobs:
   build:
