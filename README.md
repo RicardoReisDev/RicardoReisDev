@@ -78,4 +78,4 @@ Vamos codificar juntos! 🚀
 
 Utilizamos GitHub Actions para commits com animação de nave espacial. Cada commit é uma nova aventura!
 
-[Exemplo de Configuração](.github/workflows/nave_espacial_commits.yml)
+[![Nave Espacial Commits](https://github.com/RicardoReisDev/RicardoReisDev/actions/workflows/nave_espacial_commits.yml/badge.svg)](https://github.com/RicardoReisDev/RicardoReisDev/actions/workflows/nave_espacial_commits.yml)
