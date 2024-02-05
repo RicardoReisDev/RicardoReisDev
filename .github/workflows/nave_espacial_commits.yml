@@ -3,7 +3,7 @@ name: Nave Espacial Commits
 on:
   push:
     branches:
-      - main 
+      - main  # ajuste para a branch principal do seu repositório
 
 jobs:
   build:
@@ -17,7 +17,6 @@ jobs:
       run: |
         git config --global user.name "RicardoReisDev"
         git config --global user.email "ricardoreisdev@gmail.com"
-        git remote set-url origin "https://RicardoReisDev:${{ secrets.GITHUB_TOKEN }}@github.com/RicardoReisDev/RicardoReisDev.git"
 
     - name: Nave Espacial Commits
       run: |
@@ -25,6 +24,8 @@ jobs:
           echo "Nave Espacial Commit $i" >> commit_file.txt
           git add commit_file.txt
           git commit -m "🚀 Nave Espacial Commit $i"
-          git push
+          git remote rm origin
+          git remote add origin "https://RicardoReisDev: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@github.com/RicardoReisDev/RicardoReisDev.git"
+          git push -u origin main
           sleep 3
         done
