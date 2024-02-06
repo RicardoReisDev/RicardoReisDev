@@ -73,9 +73,3 @@ Contribuições são bem-vindas! Siga estes passos para contribuir:
 Vamos codificar juntos! 🚀
 
 ---
-
-## GitHub Actions - Nave Espacial Commits
-
-Utilizamos GitHub Actions para commits com animação de nave espacial. Cada commit é uma nova aventura!
-
-[![Nave Espacial Commits](https://github.com/RicardoReisDev/RicardoReisDev/actions/workflows/nave_espacial_commits.yml/badge.svg)](https://github.com/RicardoReisDev/RicardoReisDev/actions/workflows/nave_espacial_commits.yml)
