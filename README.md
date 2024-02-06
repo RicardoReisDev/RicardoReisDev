@@ -27,11 +27,11 @@ Tecnologias utilizadas: React.js, Firebase, ...
 
 ### 2. Blog Pessoal
 
-Um blog desenvolvido como parte do meu aprendizado em programação web.
+Um site desenvolvido como parte do meu aprendizado em programação web para mostrar algumas das minhas redes sociais.
 
 Tecnologias utilizadas: HTML, CSS, JavaScript.
 
-[Link]
+[[Link](https://ricardoreisdev.github.io/Social-Media-Projects/)]
 
 ## Tecnologias e Habilidades
 
