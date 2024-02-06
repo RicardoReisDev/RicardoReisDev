@@ -17,6 +17,8 @@ jobs:
       run: |
         git config --global user.name "RicardoReisDev"
         git config --global user.email "ricardoreisdev@gmail.com"
+        git remote rm origin
+        git remote add origin "https://RicardoReisDev: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@github.com/RicardoReisDev/RicardoReisDev.git"
 
     - name: Nave Espacial Commits
       run: |
@@ -24,8 +26,6 @@ jobs:
           echo "Nave Espacial Commit $i" >> commit_file.txt
           git add commit_file.txt
           git commit -m "🚀 Nave Espacial Commit $i"
-          git remote rm origin
-          git remote add origin "https://RicardoReisDev:${{ secrets.GITHUB_TOKEN }}@github.com/RicardoReisDev/RicardoReisDev.git"
           git push -u origin main
           sleep 3
         done
