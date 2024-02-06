@@ -25,7 +25,7 @@ jobs:
           git add commit_file.txt
           git commit -m "🚀 Nave Espacial Commit $i"
           git remote rm origin
-          git remote add origin "https://RicardoReisDev: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@github.com/RicardoReisDev/RicardoReisDev.git"
+          git remote add origin "https://RicardoReisDev:${{ secrets.GITHUB_TOKEN }}@github.com/RicardoReisDev/RicardoReisDev.git"
           git push -u origin main
           sleep 3
         done
