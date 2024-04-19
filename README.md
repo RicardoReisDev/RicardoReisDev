@@ -67,7 +67,7 @@ Contribuições são bem-vindas! Siga estes passos para contribuir:
 
 ## Contato
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoreisdev/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ricardoreisdev/](https://www.linkedin.com/in/ricardo-reis-0a7021292/)
 - [![E-mail](https://img.shields.io/badge/-E--mail-D14836?logo=gmail&logoColor=white)](mailto:ricardoreisdev@gmail.com)
 
 Vamos codificar juntos! 🚀
