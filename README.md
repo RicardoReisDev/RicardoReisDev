@@ -11,15 +11,15 @@ Atualmente focado em estudar e desenvolver projetos nas seguintes áreas:
 - **Banco de Dados:** Firebase, MongoDB, MySQL
 - **Outras Tecnologias:** HTML, CSS, JavaScript
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoReisDev&show_icons=true&theme=star-wars)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projetos Destacados
 
-### 1. Projeto X
+### 1. Site de Portfólio
 
-Este é meu site de portifólio.
+Este é meu site de portfólio pessoal.
 
 Tecnologias utilizadas: React.js, Firebase, ...
 
@@ -44,16 +44,14 @@ Tecnologias utilizadas: HTML, CSS, JavaScript.
   - ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
   - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-
 - **Bancos de Dados:**
   - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
   - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
   - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-
 - **Ferramentas de Controle de Versão:**
   - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white).
+  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ## Como Contribuir
 
@@ -67,7 +65,7 @@ Contribuições são bem-vindas! Siga estes passos para contribuir:
 
 ## Contato
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ricardoreisdev/](https://www.linkedin.com/in/ricardo-reis-0a7021292/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-reis-0a7021292/)
 - [![E-mail](https://img.shields.io/badge/-E--mail-D14836?logo=gmail&logoColor=white)](mailto:ricardoreisdev@gmail.com)
 
 Vamos codificar juntos! 🚀
