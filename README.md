@@ -13,7 +13,7 @@ Atualmente focado em estudar e desenvolver projetos nas seguintes áreas:
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoReisDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoReisDev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Projetos Destacados
