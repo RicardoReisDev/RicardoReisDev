@@ -13,19 +13,12 @@ Atualmente focado em estudar e desenvolver projetos nas seguintes áreas:
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoReisDev&show_icons=true&theme=star-wars)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoReisDev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Projetos Destacados
 
-### 1. Site de Portfólio
-
-Este é meu site de portfólio pessoal.
-
-Tecnologias utilizadas: React.js, Firebase, ...
-
-[Link]
-
-### 2. Blog Pessoal
+### 1. Blog Pessoal
 
 Um site desenvolvido como parte do meu aprendizado em programação web para mostrar algumas das minhas redes sociais.
 
