@@ -13,18 +13,18 @@ Atualmente focado em estudar e desenvolver projetos nas seguintes áreas:
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoReisDev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoReisDev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Projetos Destacados
 
 ### 1. Blog Pessoal
 
-Um site desenvolvido como parte do meu aprendizado em programação web para mostrar algumas das minhas redes sociais.
+Um site desenvolvido como parte do meu aprendizado em programação web.
 
 Tecnologias utilizadas: HTML, CSS, JavaScript.
 
-[[Link](https://ricardoreisdev.github.io/Social-Media-Projects/)]
+[[Link](https://oreisdev.com.br/)]
 
 ## Tecnologias e Habilidades
 
