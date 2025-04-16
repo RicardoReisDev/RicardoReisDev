@@ -1,4 +1,3 @@
-<!-- Banner Opcional: Substitua o link abaixo por um banner personalizado se desejar -->
 [![Banner](https://www.linkedin.com/in/ricardo-reis-0a7021292/overlay/background-image/)](https://github.com/RicardoReisDev)
 
 # RicardoReisDev
