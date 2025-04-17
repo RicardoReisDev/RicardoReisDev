@@ -1,74 +1,73 @@
-[![Banner](https://www.linkedin.com/in/ricardo-reis-0a7021292/overlay/background-image/)](https://github.com/RicardoReisDev)
+<h1 align="center">Olá, eu sou Ricardo Reis!</h1> <p align="center"> Desenvolvedor Web Full-Stack | Estudante de Sistemas de Informação </p> <p align="center"> <a href="https://www.linkedin.com/in/ricardo-reis-0a7021292" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:ricardoreisdev@gmail.com"> <img src="https://img.shields.io/badge/E--mail-D14836?logo=gmail&logoColor=white" alt="E-mail"> </a> <a href="https://oreisdev.com.br"> <img src="https://img.shields.io/badge/Website-FF5722?logo=google-chrome&logoColor=white" alt="Website"> </a> </p>
+📌 Sumário
+Sobre Mim
 
-# RicardoReisDev
+Projetos em Destaque
 
-Olá, eu sou o **Ricardo Reis**! 👋  
-Sou estudante de Sistemas de Informação e apaixonado por transformar ideias em código. Este é o meu espaço para compartilhar projetos, aprendizados e inovações no universo do desenvolvimento web.
+Tecnologias e Ferramentas
 
----
+Estatísticas do GitHub
 
-## 📑 Sumário
+Como Contribuir
 
-- [Sobre Mim](#-sobre-mim)
-- [Projetos em Destaque](#-projetos-em-destaque)
-- [Tecnologias e Ferramentas](#-tecnologias-e-ferramentas)
-- [Estatísticas do GitHub](#-estatísticas-do-github)
-- [Como Contribuir](#-como-contribuir)
-- [Contato](#-contato)
+Contato
 
----
+📖 Sobre Mim
+Sou Ricardo Reis, estudante de Sistemas de Informação, apaixonado por criar soluções práticas e inovadoras através do desenvolvimento web. Meu foco está no desenvolvimento de aplicações completas (front-end e back-end), sempre buscando crescimento profissional e pessoal através do aprendizado constante.
 
-## 📚 Sobre Mim
+Formação: Sistemas de Informação
 
-- 🎓 **Formação:** Estudante de Sistemas de Informação  
-- 💡 **Foco:** Desenvolvimento web full-stack com ênfase na criação de experiências interativas  
-- 🚀 **Objetivo:** Evoluir em projetos práticos e compartilhar conhecimento com a comunidade
+Especialidade: Desenvolvimento Web Full-Stack
 
----
+Interesses: JavaScript, React.js, Node.js e tecnologias modernas para web.
 
-## 💡 Projetos em Destaque
+🚀 Projetos em Destaque
+🌐 Blog Pessoal – oreisdev.com.br
+Projeto onde compartilho artigos sobre programação, desenvolvimento web e minha jornada pessoal de aprendizado.
 
-### [Blog Pessoal](https://oreisdev.com.br/)
-Um projeto que reflete o meu aprendizado em desenvolvimento web.  
-**Tecnologias:** HTML, CSS, JavaScript
+Tecnologias utilizadas:
 
-> Explore e conheça um pouco mais sobre minha jornada em programação!
+🛠️ Tecnologias e Ferramentas
+Linguagens e Tecnologias:
 
----
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40") ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40")
 
-## 🔧 Tecnologias e Ferramentas
+Frameworks e Bibliotecas:
 
-### Linguagens de Programação
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40") ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40") ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40")
 
-### Frameworks e Bibliotecas
-- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white)
-- ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+Bancos de Dados:
 
-### Bancos de Dados
-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40") ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40") ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40")
 
-### Controle de Versão
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+Controle de Versão:
 
----
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40") ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40")
 
-## 📊 Estatísticas do GitHub
+📊 Estatísticas do GitHub
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RicardoReisDev&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RicardoReisDev&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RicardoReisDev&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RicardoReisDev&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RicardoReisDev&theme=github_dark&utcOffset=-3" /> </div>
+📌 Como Contribuir
+Contribuições são sempre bem-vindas:
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RicardoReisDev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Faça um Fork do repositório desejado.
 
----
+Crie uma branch:
+git checkout -b feature/nome-da-funcionalidade
+Realize suas modificações e faça commit:
 
-## 🤝 Como Contribuir
+git commit -m "feat: descrição das alterações"
+Faça push para sua branch:
 
-Contribuições são sempre bem-vindas! Para colaborar, siga estes passos:
+git push origin feature/nome-da-funcionalidade
+Abra um Pull Request detalhando suas alterações.
 
-1. **Fork** deste repositório.
-2. Crie uma branch com sua feature:  
-   ```bash
-   git checkout -b feature/nova-feature
+📬 Contato
+Sinta-se à vontade para entrar em contato comigo:
+
+LinkedIn: Ricardo Reis
+
+E-mail: ricardoreisdev@gmail.com
+
+Website: oreisdev.com.br
+
+<p align="center"> Obrigado pela visita! </p>
