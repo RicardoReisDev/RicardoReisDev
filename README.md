@@ -46,22 +46,29 @@ Controle de Versão:
 
 📊 Estatísticas do GitHub
 <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RicardoReisDev&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RicardoReisDev&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RicardoReisDev&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RicardoReisDev&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RicardoReisDev&theme=github_dark&utcOffset=-3" /> </div>
+
 📌 Como Contribuir
+
 Contribuições são sempre bem-vindas:
 
 Faça um Fork do repositório desejado.
 
 Crie uma branch:
+
 git checkout -b feature/nome-da-funcionalidade
+
 Realize suas modificações e faça commit:
 
 git commit -m "feat: descrição das alterações"
+
 Faça push para sua branch:
 
 git push origin feature/nome-da-funcionalidade
+
 Abra um Pull Request detalhando suas alterações.
 
 📬 Contato
+
 Sinta-se à vontade para entrar em contato comigo:
 
 LinkedIn: Ricardo Reis
